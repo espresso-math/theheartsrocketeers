@@ -1,7 +1,6 @@
 +++
 date = "2017-03-12T16:45:33Z"
-draft = true
-title = "hello post"
+title = "Post de Assurance"
 
 +++
-This post will introduce you the purpose of this blog.
+What ever this post may be about I assure you it will be fun and quitte goood!
